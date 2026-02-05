@@ -1,0 +1,5 @@
+Git tracks file changes.
+Commits should be small and clear.
+GitHub stores repositories online.
+Braches help organize work.
+Practice makes Git easier.
