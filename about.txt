@@ -1,2 +1,4 @@
 Name: Vildane Ismaili
 I am learning Git to track my code changes and work professionally with projects.
+I want to use Git in real projects.
+Git is importat for teamwork and version control.
